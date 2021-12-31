@@ -1,1 +1,1 @@
-# M-thode-Num-rique
+# Méthode Numérique
